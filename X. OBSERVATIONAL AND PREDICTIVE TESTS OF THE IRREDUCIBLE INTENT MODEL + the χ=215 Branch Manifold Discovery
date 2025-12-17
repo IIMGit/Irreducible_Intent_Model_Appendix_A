@@ -1,3 +1,15 @@
+"""
+Phenomenological test platforms for Section X of the paper + the χ = 215 branch identification.
+
+IMPORTANT:
+- All couplings and parameters used here are fixed upstream
+  by the projection geometry and RG analysis.
+- No parameter estimation or fitting is performed.
+- These scripts operationalize predictions for confrontation
+  with observational data only.
+"""
+
+
 # -*- coding: utf-8 -*-
 """FURTHER.IIM.EXPERIMENTS
 
